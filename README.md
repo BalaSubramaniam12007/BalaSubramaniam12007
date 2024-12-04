@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Balasubramaniam12007&color=48D1CC&style=flat-square&label=Profile+Views" alt="Profile Views Counter" /><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Balasubramaniam12007.Balasubramaniam12007" alt="Profile Views" />
+</div>
 
-<!--
-**BalaSubramaniam12007/BalaSubramaniam12007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing Effect -->
+<h1 align="center" style="font-weight: 500;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=600&height=70&duration=4000&lines=Hi there!+👋;+I'm+BALASUBRAMANIAM+L;AI +ML+Explorer+🤖;Open+Source+Contributor+✨" alt="Typing Effect" />
+</h1>
 
-Here are some ideas to get you started:
+# ML Undergrad '28 🎓| Passionate AI Enthusiast | Open Source Contributor 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a first-year undergraduate from the AIML department, specializing in **Artificial Intelligence** with a focus on **Machine Learning** and **Natural Language Processing**. My journey is driven by a commitment to **open-source contributions** and a continuous pursuit of **AI innovations**. Beyond technology, I am passionate about leveraging AI to drive **community-driven projects** that make a tangible difference.
+
+
+## 🛠️ Dev Toolkit
+
+<p align="center">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Python.png" alt="Python" width="80">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Tensorflow.png" alt="TensorFlow" width="100">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Kubeflow.png" alt="React" width="100">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Django.png" alt="Java" width="100">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/docker.png" alt="Docker" width="150">
+    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/kubernetes.png" alt="Pandas" width="100">
+</p>
+
+## 📊 Dev Code Stats
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://streak-stats.demolab.com?user=Balasubramaniam12007&theme=dark&hide_border=false&border=48D1CC&ring=48D1CC&fire=48D1CC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=48D1CC&sideLabels=48D1CC&dates=FFFFFF&background=0D1117" 
+       alt="GitHub Streak Stats" />
+</div>
+
+
+
+
+## 🎯 Commit Chronicles
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasubramaniam12007&theme=react-dark&hide_border=true&area=true&title=false" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</p>
+
+
+
+## 🌐 Connect Across the Web
+<p align="center">
+  <a href="https://discord.com/users/1275105898649358356" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Balasubramaniam12007-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/balasubramaniam2007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="balasubramaniam12007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-%2320B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/BALASUBRAMAN1AM" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-%2387CEEB?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
+
+---
