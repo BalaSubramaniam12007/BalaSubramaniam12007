@@ -4,8 +4,10 @@
 
 <!-- Typing Effect -->
 <h1 align="center" style="font-weight: 500;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=600&height=70&duration=4000&lines=Hi there!+👋;+I'm+BALASUBRAMANIAM+L;AI +ML+Explorer+🤖;Open+Source+Contributor+✨" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=600&height=70&duration=4000&lines=Hi%20there!%20%F0%9F%91%8B;%20I'm%20BALASUBRAMANIAM%20L;%20Open%20Source%20Contributor%20%E2%9C%A8" alt="Typing Effect" />
 </h1>
+
+
 
 # ML Undergrad '28 🎓| Passionate AI Enthusiast | Open Source Contributor 🚀
 
@@ -16,12 +18,12 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
 ## 🛠️ Dev Toolkit
 
 <p align="center">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Python.png" alt="Python" width="80">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Tensorflow.png" alt="TensorFlow" width="100">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/react-logo-1.png alt="React" width="100">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Python.png" alt="Python" width="95">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Tensorflow.png" alt="TensorFlow" width="125">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/react-logo-1.png" alt="React"width="100">
     <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/java.png" alt="Java" width="100">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/docker.png" alt="Docker" width="150">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/pandas.svg" alt="Pandas" width="100">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/docker.png" alt="Docker" width="160">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/pandas.svg" alt="Pandas" width="70">
 </p>
 
 
