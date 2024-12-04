@@ -1,5 +1,4 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=Balasubramaniam12007&color=48D1CC&style=flat-square&label=Profile+Views" alt="Profile Views Counter" /><br>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Balasubramaniam12007.Balasubramaniam12007" alt="Profile Views" />
 </div>
 
@@ -13,16 +12,18 @@
 I am a first-year undergraduate from the AIML department, specializing in **Artificial Intelligence** with a focus on **Machine Learning** and **Natural Language Processing**. My journey is driven by a commitment to **open-source contributions** and a continuous pursuit of **AI innovations**. Beyond technology, I am passionate about leveraging AI to drive **community-driven projects** that make a tangible difference.
 
 
+
 ## 🛠️ Dev Toolkit
 
 <p align="center">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Python.png" alt="Python" width="80">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Tensorflow.png" alt="TensorFlow" width="100">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Kubeflow.png" alt="React" width="100">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/Django.png" alt="Java" width="100">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/docker.png" alt="Docker" width="150">
-    <img src="https://github.com/shivas1516/shivas1516/blob/main/img/kubernetes.png" alt="Pandas" width="100">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Python.png" alt="Python" width="80">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Tensorflow.png" alt="TensorFlow" width="100">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/react-logo-1.png alt="React" width="100">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/java.png" alt="Java" width="100">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/docker.png" alt="Docker" width="150">
+    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/pandas.svg" alt="Pandas" width="100">
 </p>
+
 
 ## 📊 Dev Code Stats
 
@@ -31,8 +32,6 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
   <img src="https://streak-stats.demolab.com?user=Balasubramaniam12007&theme=dark&hide_border=false&border=48D1CC&ring=48D1CC&fire=48D1CC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=48D1CC&sideLabels=48D1CC&dates=FFFFFF&background=0D1117" 
        alt="GitHub Streak Stats" />
 </div>
-
-
 
 
 ## 🎯 Commit Chronicles
@@ -51,7 +50,7 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
   <a href="https://www.linkedin.com/in/balasubramaniam2007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="balasubramaniam12007@gmail.com" target="_blank">
+  <a href="mailto:balasubramaniam12007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-%2320B2AA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://x.com/BALASUBRAMAN1AM" target="_blank">
