@@ -30,17 +30,6 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
 </p>
 
 
-## 📊 Dev Code Stats
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://streak-stats.demolab.com?user=Balasubramaniam12007&theme=dark&hide_border=false&border=48D1CC&ring=48D1CC&fire=48D1CC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=48D1CC&sideLabels=48D1CC&dates=FFFFFF&background=0D1117" 
-       alt="GitHub Streak Stats" />
-</div>
-
-
-
-
 ## 🎯 Commit Chronicles
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasubramaniam12007&theme=react-dark&hide_border=true&area=true&title=false" width="100%" alt="Contribution Graph" />
