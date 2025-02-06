@@ -33,10 +33,7 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
 ## 🎯 Commit Chronicles
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasubramaniam12007&theme=react-dark&hide_border=true&area=true&title=false" width="100%" alt="Contribution Graph" />
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
-
-
 
 
 
