@@ -21,12 +21,13 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
 ## 🛠️ Dev Toolkit
 
 <p align="center">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Python.png" alt="Python" width="95">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Tensorflow.png" alt="TensorFlow" width="125">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/react.png" alt="React"width="105">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/java.png" alt="Java" width="100">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/docker.png" alt="Docker" width="160">
-    <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/pandas.svg" alt="Pandas" width="70">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Python.png" alt="Python" height="70" style="vertical-align:middle;">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/flutter.png" alt="Flutter" height="70" style="vertical-align:middle;">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/dart.png" alt="Dart" height="70" style="vertical-align:middle;">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/Tensorflow.png" alt="TensorFlow" height="90" style="vertical-align:middle;">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/react.png" alt="React" height="70" style="vertical-align:middle;">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/java.png" alt="Java" height="70" style="vertical-align:middle;">
+  <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/docker.png" alt="Docker" height="90" style="vertical-align:middle;">
 </p>
 
 
