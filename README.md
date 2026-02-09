@@ -12,7 +12,7 @@
 
 # ML Undergrad '28 🎓| Passionate AI Enthusiast | Open Source Contributor 🚀
 
-I am a first-year undergraduate from the AIML department, specializing in **Artificial Intelligence** with a focus on **Machine Learning** and **Natural Language Processing**. My journey is driven by a commitment to **open-source contributions** and a continuous pursuit of **AI innovations**. Beyond technology, I am passionate about leveraging AI to drive **community-driven projects** that make a tangible difference.
+I am a sophomore undergraduate from the AIML department, specializing in **Artificial Intelligence** with a focus on **Machine Learning** and **Natural Language Processing**. My journey is driven by a commitment to **open-source contributions** and a continuous pursuit of **AI innovations**. Beyond technology, I am passionate about leveraging AI to drive **community-driven projects** that make a tangible difference.
 
 
 
@@ -29,13 +29,6 @@ I am a first-year undergraduate from the AIML department, specializing in **Arti
   <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/java.png" alt="Java" height="70" style="vertical-align:middle;">
   <img src="https://github.com/BalaSubramaniam12007/BalaSubramaniam12007/blob/main/images/docker.png" alt="Docker" height="90" style="vertical-align:middle;">
 </p>
-
-
-## 🎯 Commit Chronicles
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balasubramaniam12007&theme=react-dark&hide_border=true&area=true&title=false" width="100%" alt="Contribution Graph" />
-</p>
-
 
 
 ## 🌐 Connect Across the Web
